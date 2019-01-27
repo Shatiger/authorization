@@ -1,0 +1,2 @@
+# authorization
+Пример php-авторизации
